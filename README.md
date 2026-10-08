@@ -1,0 +1,2 @@
+# monomarket-pricelist
+public json
